@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
+  "versionCode": 2,
   "versionName": "1.0.1",
   "forceUpdate": false,
-  "updateLog": "fixed some problem",
+  "updateLog": "1. 修复消息丢失与加载异常\n2. 修复锁屏后连接断开\n3. 新增表情包功能\n4. 新增音乐播放与歌词显示\n5. 新增正在听歌状态展示\n6. 优化消息通知与后台保活\n7. 支持个人主页背景图与头像裁剪\n8. 支持检查更新",
   "apkUrl": "https://github.com/he1570552395-stack/MChat/releases/download/v1.0.1/app-debug.apk"
 }
