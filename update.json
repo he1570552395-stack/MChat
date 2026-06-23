@@ -2,6 +2,6 @@
   "versionCode": 2,
   "versionName": "1.0.1",
   "forceUpdate": false,
-  "updateLog": "1. 修复消息丢失与加载异常\n2. 修复锁屏后连接断开\n3. 新增表情包功能\n4. 新增音乐播放与歌词显示\n5. 新增正在听歌状态展示\n6. 优化消息通知与后台保活\n7. 支持个人主页背景图与头像裁剪\n8. 支持检查更新",
+  "updateLog": "1. 修复动漫搜索结果显示HTML标签问题\n2. 修复视频全屏后返回主页问题（Activity重建导致状态丢失）\n3. 修复从播放器返回详情页数据为空问题\n4. 修复ExoPlayer无法播放m3u8格式（新增HLS依赖）\n5. 修复嗅探到解析站URL而非真实视频流问题\n6. 新增手势滑动拖动进度条（左右滑动快进快退）\n7. 新增双击快进/快退10秒\n8. 新增弹幕系统（滚动弹幕、开关、发送）\n9. 新增自定义播放器控制栏（进度条、播放/暂停、全屏）\n10. 新增15个动漫源（7sefun/AGE/baimao/ciyuancheng/enlie/giriGiriLove/gpjda/gugu3/mgnacg/mutefun/mwcy/omofun03/qifun/xfdm/xfdmneo）\n11. 搜索改为并发所有源聚合结果\n12. 过滤导航栏/标签页等无效搜索结果",
   "apkUrl": "https://github.com/he1570552395-stack/MChat/releases/download/v1.0.1/app-debug.apk"
 }
